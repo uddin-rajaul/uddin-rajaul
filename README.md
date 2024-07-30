@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uddin-rajaul
 - 👀 I’m interested in computer networking and cyber security
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning backend development with Django and Data Engineering 
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me 
 - LinkedIn -> shorturl.at/qRX48
